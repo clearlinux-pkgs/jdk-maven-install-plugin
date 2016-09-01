@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/pom_editor.py pom_add_dep        org.apache.maven:maven-core::test
+python3 /usr/share/java-utils/pom_editor.py pom_add_dep        org.apache.maven:maven-compat
